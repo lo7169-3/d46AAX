@@ -9,20 +9,7 @@
 
 
 
-#EXTM3U
 
-#EXTM3U url-tvg="https://cutt.ly/epgalvin"
-
-#☠☠☠ by A. Galvin R.
-#☠☠☠ prohibida su reventa, copia o redifusión.
-#☠☠☠ ADVERTENCIA: su IP quedará registrada en el momento del uso de ista IPTV.
-#☠☠☠ SERVICIO HASTA
-
-
-
-
-#EXTINF:-1,------|Spain|------
-http://ku03.wanicelife.com:8880/3m470012/36285887/2604
 #EXTINF:-1,#0 HD
 http://ku03.wanicelife.com:8880/3m470012/36285887/2603
 #EXTINF:-1,24 Horas
