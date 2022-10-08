@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="http://tv.ictv.xdns.pro:80/xmltv.php?username=q7DyDSn11&password=ae3Hla53"
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title=" ES 01 MOVISTAR+",ES: LA 1 FHD
 http://950751084788321276.niceapy.xyz:80/play/Stil35/87645902/321276.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TVE" group-title=" ES 01 MOVISTAR+",ES: LA 1 HD
