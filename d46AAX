@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
 #EXTINF:-1 xui-id="56222" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA FHD
 http://jamesweb.solanaflix.com:8080/play/9k6_h94X61bwTWhaQWSn0JSrplkAAr2y7Y8Y7yLJU5n2SIAOxwJ_qAIuzcSPtJe7
 #EXTINF:-1 xui-id="48563" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" group-title="ESPANA -  FUTBOL",|ES| MOVISTAR LA LIGA
