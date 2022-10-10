@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U url-tvg="http://tv.ictv.xdns.pro:80/xmltv.php?username=q7DyDSn11&password=ae3Hla53"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Spain [ES] ▬" tvg-logo="https://picon-13398.kxcdn.com/spain.jpg" group-title="Live: Spain",▬ Spain [ES] ▬
 http://tv.ictv.xdns.pro:80/q7DyDSn11/ae3Hla53/16516
 #EXTINF:-1 tvg-id="Cero.es" tvg-name="Cero ES" tvg-logo="https://picon-13398.kxcdn.com/0.jpg" group-title="Live: Spain",Cero ES
